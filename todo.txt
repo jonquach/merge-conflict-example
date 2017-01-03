@@ -1,4 +1,4 @@
-1. Eat
-2. Work
-3. Sleep
-4. Repeat
+Eat
+Work
+Sleep
+Repeat
